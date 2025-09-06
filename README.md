@@ -20,11 +20,11 @@ Temas:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211043610  |  Arthur Marmo Cathalá |
+| xx/xxxxxx  |  Daniele Rodrigues Silva |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Nesse projeto apresentamos soluções de exercícios do LeetCode
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
