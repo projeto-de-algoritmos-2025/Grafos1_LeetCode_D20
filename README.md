@@ -17,7 +17,9 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode
 
 ![](./Screenshots/eh_bipartido.png)
 
+### 2 - Fácil - [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 
+![](./Screenshots/PathExists.png)
 
 
 
