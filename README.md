@@ -1,21 +1,6 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos 1 - Leetcode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo do Trabalho**: Grafos<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -24,21 +9,15 @@ Temas:
 | xx/xxxxxx  |  Daniele Rodrigues Silva |
 
 ## Sobre 
-Nesse projeto apresentamos soluções de exercícios do LeetCode
+Nesse projeto apresentamos soluções de exercícios do Leetcode
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Screenshots das Submissões
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### 1 - Médio - [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/description/)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+![](./Screenshots/eh_bipartido.png)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
