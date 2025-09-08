@@ -21,6 +21,8 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode
 
 ![](./Screenshots/PathExists.png)
 
+### 3 - Difícil - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 
+![](./Screenshots/LongestCycle.png)
 
 
