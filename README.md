@@ -9,7 +9,7 @@
 | 211061574  |  Danielle Rodrigues Silva |
 
 ## Sobre 
-Nesse projeto apresentamos soluções de exercícios do Leetcode
+Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ## Screenshots das Submissões
 
@@ -33,5 +33,9 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode
 ### 5 - Difícil - [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 
 ![](./Screenshots/Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.png)
+
+## Vídeo de apresentação do Trabalho 1
+
+[Vídeo da apresentação no yt](https://youtu.be/B9MlKc0Q_9I)
 
 
